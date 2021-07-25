@@ -1,14 +1,8 @@
-<div align="center" style="display: flex; flex-direction: column">
-  <style>
-  @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
-
-  h1 {
-      font-family: 'Quicksand', sans-serif;
-  }
-  </style>
+<div align="center">
   <img src="https://github.com/pat-lawre/taskier/blob/main/src/assets/logo.svg" title="Taskier logo">
-  <h1 style='margin-top: 1rem;'>Your new favorite life organization app</h1>
 </div>
+
+---
 
 ## About
 A calendar/planner to keep track of tasks. Primary features include:
