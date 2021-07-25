@@ -1,13 +1,12 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
-
-h1 {
-    font-family: 'Quicksand', sans-serif;
-}
-</style>
-
 <div align="center" style="display: flex; flex-direction: column">
-  <img src="./src/assets/images/logo.svg" title="Taskier logo">
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+
+  h1 {
+      font-family: 'Quicksand', sans-serif;
+  }
+  </style>
+  <img src="https://github.com/pat-lawre/taskier/blob/main/src/assets/logo.svg" title="Taskier logo">
   <h1 style='margin-top: 1rem;'>Your new favorite life organization app</h1>
 </div>
 
