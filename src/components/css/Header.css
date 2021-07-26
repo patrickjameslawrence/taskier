@@ -25,9 +25,3 @@
     height: 2.5rem;
     font-size: 1rem;
 }
-
-.button:hover {
-    background: linear-gradient(#0080FF, #6000BE);
-    color: #FFF;
-    border: none;
-}

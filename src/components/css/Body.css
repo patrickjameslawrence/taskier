@@ -1,4 +1,4 @@
-.body {
+.lightBody {
     text-align: center;
 }
 
@@ -8,10 +8,20 @@
 
 .message {
     font-size: 2em;
-    color: #777;
+    color: #888;
 }
 
 .message strong {
     font-size: 5rem;
     color: #000;
+}
+
+.darkBody {
+    text-align: center;
+    background-color: #000;
+}
+
+.darkBody .message strong {
+    font-size: 5rem;
+    color: #fff;
 }

@@ -11,3 +11,9 @@ button {
     border-radius: 30px;
     border-width: 1px;
 }
+
+button:hover {
+    background: linear-gradient(#0080FF, #6000BE);
+    color: #FFF;
+    border: none;
+}
