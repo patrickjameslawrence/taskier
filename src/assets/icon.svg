@@ -1,21 +1,21 @@
-<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 256C0 114.615 114.615 0 256 0H716.8C886.462 0 1024 137.538 1024 307.2V716.8C1024 886.462 886.462 1024 716.8 1024H256C114.615 1024 0 909.385 0 768V256Z" fill="url(#paint0_linear)"/>
-<path d="M0 256C0 114.615 114.615 0 256 0H563.199C775.277 0 947.2 171.923 947.2 384V640C947.2 852.077 775.277 1024 563.2 1024H256C114.615 1024 0 909.385 0 768V256Z" fill="url(#paint1_linear)"/>
-<path d="M0 217.6C0 97.4229 97.4229 0 217.6 0H358.4C641.17 0 870.4 229.23 870.4 512C870.4 794.77 641.17 1024 358.4 1024H217.6C97.4228 1024 0 926.577 0 806.4V217.6Z" fill="url(#paint2_linear)"/>
-<rect x="204.8" y="281.6" width="460.8" height="460.8" rx="102.4" stroke="white" stroke-width="51.2"/>
-<line x1="537.6" y1="384.001" x2="332.8" y2="384.001" stroke="white" stroke-width="51.2" stroke-linecap="round"/>
-<line x1="537.6" y1="512.001" x2="332.8" y2="512.001" stroke="white" stroke-width="51.2" stroke-linecap="round"/>
-<line x1="537.6" y1="640.001" x2="332.8" y2="640.001" stroke="white" stroke-width="51.2" stroke-linecap="round"/>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 50C0 22.3858 22.3858 0 50 0H150C177.614 0 200 22.3858 200 50V150C200 177.614 177.614 200 150 200H50C22.3858 200 0 177.614 0 150V50Z" fill="url(#paint0_linear)"/>
+<path d="M0 50C0 22.3858 22.3858 0 50 0H135C162.614 0 185 22.3858 185 50V150C185 177.614 162.614 200 135 200H50C22.3858 200 0 177.614 0 150V50Z" fill="url(#paint1_linear)"/>
+<path d="M0 50C0 22.3858 22.3858 0 50 0H120C147.614 0 170 22.3858 170 50V150C170 177.614 147.614 200 120 200H50C22.3858 200 0 177.614 0 150V50Z" fill="url(#paint2_linear)"/>
+<rect x="40.0001" y="55" width="90" height="90" rx="20" stroke="white" stroke-width="10"/>
+<line x1="105" y1="75.0004" x2="65.0001" y2="75.0004" stroke="white" stroke-width="10" stroke-linecap="round"/>
+<line x1="105" y1="100" x2="65.0001" y2="100" stroke="white" stroke-width="10" stroke-linecap="round"/>
+<line x1="105" y1="125" x2="65.0001" y2="125" stroke="white" stroke-width="10" stroke-linecap="round"/>
 <defs>
-<linearGradient id="paint0_linear" x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear" x1="100" y1="0" x2="100" y2="200" gradientUnits="userSpaceOnUse">
 <stop stop-color="#80FF00"/>
 <stop offset="1" stop-color="#00BE60"/>
 </linearGradient>
-<linearGradient id="paint1_linear" x1="473.6" y1="0" x2="473.6" y2="1024" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint1_linear" x1="92.5" y1="0" x2="92.5" y2="200" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FF8000"/>
 <stop offset="0.760417" stop-color="#BE0060"/>
 </linearGradient>
-<linearGradient id="paint2_linear" x1="435.2" y1="0" x2="435.2" y2="1024" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint2_linear" x1="85" y1="0" x2="85" y2="200" gradientUnits="userSpaceOnUse">
 <stop stop-color="#0080FF"/>
 <stop offset="0.760417" stop-color="#6000BE"/>
 </linearGradient>

@@ -1,0 +1,17 @@
+.body {
+    text-align: center;
+}
+
+.messageGroup {
+    margin: 10em;
+}
+
+.message {
+    font-size: 2em;
+    color: #777;
+}
+
+.message strong {
+    font-size: 5rem;
+    color: #000;
+}
